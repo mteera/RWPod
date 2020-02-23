@@ -1,0 +1,6 @@
+framework module Pods_LPV {
+  umbrella header "Pods-LPV-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.0.0)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - Pulley (2.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - Kingfisher (~> 5.0)
+  - Pulley
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - Alamofire
+    - Kingfisher
+    - Pulley
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  Pulley: 81301031e9b08c7b240fa47e8b5d76e00bb05530
+
+PODFILE CHECKSUM: 7ade71fcd5cf215724955ab183c703af15f33372
+
+COCOAPODS: 1.8.4
